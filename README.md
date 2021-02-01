@@ -2,16 +2,7 @@
 
 Analyzing demographic data using Pandas given a dataset of demographic data that was extracted from the 1994 Census database. The python code is given here. 
 
-A Jupyter Notebook version with clearer visual insight is provided: 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sithlord-dev/demographic_data_analyzer/master)
-
-Copy markdown link to clipboard
-
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/Sithlord-dev/demographic_data_analyzer/master
-
-Copy rst link to clipboard
+A Jupyter Notebook version with clearer visual insight is provided: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sithlord-dev/demographic_data_analyzer/master)
 
 
 
